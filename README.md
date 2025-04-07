@@ -33,7 +33,7 @@ Here are the technologies I work with and love:
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg](https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="nodejs" width="40" height="40"/>
 </a>
 
   <a href="https://axios-http.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="40" height="40"/> </a>
