@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshik Duwal</h1>
-<h3 align="center">Software Developer | React | TypeScript | ASP.NET Web API | SQL | Azure Enthusiast</h3>
+<h3 align="center">Software Developer | React | TypeScript | Nodejs | ASP.NET Web API | SQL | </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandippok&label=Profile%20views&color=0e75b6&style=flat" alt="roshikduwal" />
@@ -50,8 +50,7 @@ Currently exploring **Cloud-native** and **Serverless** development with **Azure
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Roshik Duwal](https://www.linkedin.com/in/sandip-pokharel-661239193/)  
-*(Update this with your actual LinkedIn if different)*
+- **LinkedIn**: [Roshik Duwal](https://www.linkedin.com/in/roshikduwal/)  
 
 ---
 
@@ -74,15 +73,15 @@ Currently exploring **Cloud-native** and **Serverless** development with **Azure
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandippok&show_icons=true&count_private=true&hide=prs&theme=radical" alt="roshikduwal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshikduwal&show_icons=true&count_private=true&hide=prs&theme=radical" alt="roshikduwal" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandippok&theme=radical" alt="roshikduwal" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshikduwal&theme=radical" alt="roshikduwal" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandippok&layout=donut&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshikduwal&layout=donut&theme=radical" alt="Top Langs" />
 </p>
 
 ---
