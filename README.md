@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | React | TypeScript | Nodejs | ASP.NET Web API | SQL | </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandippok&label=Profile%20views&color=0e75b6&style=flat" alt="roshikduwal" />
+  <img src="https://komarev.com/ghpvc/?username=roshikduwal&label=Profile%20views&color=0e75b6&style=flat" alt="roshikduwal" />
 </p>
 
 ---
