@@ -12,7 +12,7 @@
  
 I'm a passionate **Software Developer** focused on building robust, scalable applications. With experience in both **frontend** and **backend** technologies, I'm currently working with modern web technologies like **React**, **Typescript**, **Javascript**, **C#**, **Asp.Net Web Api** services. Always learning and exploring new tech to solve complex problems.
  
-🔧 I’m currently working on mastering **serverless architectures**  and enhancing my skills in **Node.Js** and **Cloud Development**.
+🔧 I’m currently working on mastering **Frontend**  and enhancing my skills in **Node.Js** .
  
 ---
  
